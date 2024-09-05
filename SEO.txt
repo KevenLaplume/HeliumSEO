@@ -1,0 +1,60 @@
+1 - Créer du bon contenu
+      - 400 mots de par page minimum
+      - Garder un contenu à jour
+      - Ne pas répéter toujours les mêmes choses
+      - Ne pas faire une page d'intro avant le Site
+      - Pas de lien "cliquez ici" "en savoir plus"
+      - Penser à être local (préciser ville, quartier, region), le robot privilégie les choses locales. Mettre .fr si votre site n'est destiné qu'à la France.
+
+2 - HTML "seo friendly"
+      - voir HTML Helium
+      - Open Graph : https://ogp.me/ 
+      - Tester open graph : https://cards-dev.twitter.com/validator
+
+3 - Site rapide (performant)
+      - Le robot teste le temps de chargement
+      - Il faut que le JS soit lu en dernier
+      - Il faut faire apparaitre le plus vite possible une couleur de fond
+      - Privilégier les images depuis le CSS (et non pas la balise IMG)
+
+Tester son SEO : plugin "Lighthouse"
+
+Doc SEO
+https://developers.google.com/search/docs/beginner/seo-starter-guide?hl=fr 
+
+
+
+
+
+
+
+
+Resumer de base SEO
+
+
+Voici les essentiels du SEO pour optimiser ton site web :
+
+1. Recherche de mots-clés :
+Identifie les termes que ton audience cible utilise.
+Utilise des outils comme Google Keyword Planner pour trouver des mots-clés pertinents avec un bon volume de recherche et une faible concurrence.
+2. Optimisation On-Page :
+Balises titres : Utilise des titres uniques et descriptifs avec tes mots-clés principaux.
+Meta descriptions : Rédige des descriptions concises (150-160 caractères) qui incitent au clic et contiennent des mots-clés.
+URL optimisées : Préfère des URL courtes, descriptives et contenant des mots-clés pertinents.
+Balises H1 à H6 : Utilise correctement les balises de titres (H1 pour le titre principal, H2-H6 pour les sous-titres).
+Contenu de qualité : Crée du contenu original, pertinent et informatif. Mets à jour régulièrement.
+Images optimisées : Ajoute des balises alt décrivant les images, utilise des noms de fichiers pertinents et compresse les images pour réduire le temps de chargement.
+3. Optimisation technique :
+Vitesse de chargement : Un site rapide améliore l’expérience utilisateur et ton classement. Utilise des outils comme Google PageSpeed Insights pour évaluer et améliorer les performances.
+Mobile-friendly : Assure-toi que ton site est responsive (compatible avec tous les appareils).
+Sitemap XML : Crée un sitemap et soumets-le à Google pour aider à l’indexation de tes pages.
+Fichier robots.txt : Gère l’accès des moteurs de recherche à certaines pages.
+4. Liens internes et externes :
+Liens internes : Relie tes pages entre elles de manière logique pour améliorer la navigation et l’indexation.
+Backlinks de qualité : Obtiens des liens entrants (backlinks) de sites d'autorité pour renforcer la crédibilité et le classement de ton site.
+5. SEO local (si pertinent) :
+Inscris ton site sur Google My Business.
+Optimise ton site pour les recherches locales avec des informations précises sur ton adresse et tes services.
+6. Analyse et suivi :
+Utilise Google Analytics et Google Search Console pour suivre tes performances, identifier les pages à améliorer et surveiller tes mots-clés.
+Ces éléments couvrent les bases du SEO pour garantir une meilleure visibilité de ton site web sur les moteurs de recherche.
